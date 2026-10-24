@@ -14,7 +14,7 @@ The Customer Churn Insights Dashboard is a data analytics project built using Mi
 - **Microsoft Excel** — Dataset and data source
 
 ## Dashboard Preview
-Dashboard screenshots  added below.
+
 <img width="523" height="298" alt="image" src="https://github.com/user-attachments/assets/3b45a1b8-4d3a-4ab5-9911-d0145c9e68c1" />
 <img width="521" height="293" alt="image" src="https://github.com/user-attachments/assets/25793cee-1ad8-43fa-8e27-2466f1d92fa2" />
 
